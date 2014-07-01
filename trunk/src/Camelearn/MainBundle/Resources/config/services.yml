@@ -1,0 +1,7 @@
+parameters:
+#    camelearn_main.example.class: Camelearn\MainBundle\Example
+
+services:
+#    camelearn_main.example:
+#        class: %camelearn_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
