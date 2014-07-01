@@ -1,4 +1,0 @@
-camelearn_main:
-    resource: "@CamelearnMainBundle/Resources/config/routing.yml"
-    prefix:   /
-

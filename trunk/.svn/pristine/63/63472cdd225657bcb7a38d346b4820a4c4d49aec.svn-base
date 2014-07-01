@@ -1,7 +1,0 @@
-camelearn_login:
-    pattern:  /login
-    defaults: { _controller: "CamelearnMainBundle:Authentification:login" }
-    
-camelearn_parent_account_creation_page:
-    pattern:  /parent/creation
-    defaults: { _controller: "CamelearnMainBundle:User:getParentAccountCreationForm" }

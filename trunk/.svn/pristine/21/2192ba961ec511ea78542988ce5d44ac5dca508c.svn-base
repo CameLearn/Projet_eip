@@ -1,6 +1,0 @@
-xdebug.remote_enable=On
-xdebug.remote_handler="dbgp"
-xdebug.remote_mode="req"
-xdebug.remote_port=9000
-xdebug.remote_host="192.168.50.4"
-xdebug.remote_log="/tmp/xdebug.log"
